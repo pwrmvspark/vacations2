@@ -1,0 +1,29 @@
+.nav {
+  background-color: lightblue;
+  padding: 15px;
+}
+
+#newCard {
+  /* background-color: violet; */
+  border: 2px solid black;
+  height: fit-content;
+  width: 18rem;
+  margin: 5px;
+}
+
+#wish-list-heading {
+  margin: 10px;
+}
+
+.form-group {
+  padding: 10px;
+  margin: 10px;
+}
+
+.form-control {
+  margin-right: 0px 10px 10px 0px;
+}
+
+#add-btn {
+  margin-top: 15px;
+}
